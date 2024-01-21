@@ -19,3 +19,12 @@ Build docker-compose
 - password: banana
 
   ในส่วนของ database ถ้า databaseไม่ได้สร้างtableขึ้นมาสามารถ import จาก .sql ที่ผมแนบไว้ให้ได้ครับ
+
+##ในส่วนโปรแกรมผมได้สร้าง Docker container ที่จะประกอบด้วย 
+ตัวโปรแกรมที่จะรัน Flask และตัว mysql server 
+**ตัวโปรแกรม**
+- ผมให้รับ param จาก mysql table -> user,restaurant
+- จากนั้นนำข้อมูลไปใช้ในโมเดล nearest
+- ในส่วนของ great circle displacement ผมใช้ h3 รับ param latiude,logitude จาก user และเอามาคำนวณกับ restaurant (ทดสอบแล้วตรงตามระยะ meter)
+- user สามารถส่ง param size,max_dis,sort_dis เพื่อกำหนด result ได้ โดยถ้าค่าเป็น null จะใส่เป็น default ที่กำหนดไว้
+
