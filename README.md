@@ -35,8 +35,9 @@ Build docker-compose
 - ผมเริ่มทดลองจากการใช้ parquet file ในการรับค่าคำนวณและส่ง json คืน
 - จากนั้นผมลองใช้ตัว sqlite ในเครื่องตัวเองก่อนโดยใช้ user.small ในการลอง
 - หลังจากนั้นผมเปลี่ยนไปใช้ mysql และอัปตัว database เข้าไป
-- ทุกอย่างใช้ได้ปกติครับผมสามารถ จากนั้นผมเลยนำไป test กับตัว request.parquet
+- จากนั้นผมนำไป test กับตัว request.parquet
 - ปัญหาคือใน user.parquet มี User เยอะมากแต่ตัว user.small มีแค่ 10 user
 - ผมเลยอัปตัว user.parquet ขึ้น mysql
 - หลังจากผมอัปและ build docker ใหม่ ตัวdocker ผมมีปัญหา ไม่สามารถหยุดตัว container ได้ครับ ปิด docker ก็ไม่ได้
 - หลังจากปิดเครื่องแล้วเปิดใหม่ docker ผมก็เปิดไม่ได้อีกเลยครับค้างอยู่ที่ docker engine starting และไม่สามารถลบ docker โหลดใหม่ได้ครับ
+- ผมเลยเปลี่ยนมาใช้อีกเครื่องหนึ่งโดยใช้ user.small และผมได้แก้ไขไฟล์ request.parquet ให้ user มีค่าระหว่าง u00000-u00009 ไฟล์จะชื่อ requestfix.parquet ข้อมูลจะเท่าเดิมแต่เปลี่ยนแค่ตัว user ครับ ใช้ได้เหมือนกัน หรือถ้าจะใช้ตัว request.parquet สามารถทำได้ตามที่ผมเขียนใน performance_report.pdf ครับผม
