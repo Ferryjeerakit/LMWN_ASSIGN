@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  db:
+    image: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: banana
+      MYSQL_DATABASE: dat
+    ports:
+      - 3306:3306
+    volumes:
+      - ./lm:/docker-entrypoint-initdb.d
+
+  lm:
+    build: ./lm
+    container_name: LMWN
+    links:  
+      - db
+    ports:
+      - 5000:5000
+    depends_on:
+      - db

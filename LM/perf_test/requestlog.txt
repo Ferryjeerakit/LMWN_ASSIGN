@@ -1,0 +1,793 @@
+7432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00001
+Status code: 200
+Response: {'restaurants': [{'difference': 24.541607701694627, 'displacement': 2735.301287719314, 'latitude': '14.07422974393219', 'longitude': '100.67127432404445', 'restaurant_id': 'r2528'}]}
+This userID u00002 has no restaurant near
+User ID: u00002
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00003
+Status code: 200
+Response: {'restaurants': [{'difference': 25.020497095309373, 'displacement': 3397.731000443656, 'latitude': '14.056506351913438', 'longitude': '100.6177049190855', 'restaurant_id': 'r1786'}]}
+User ID: u00004
+Status code: 200
+Response: {'restaurants': [{'difference': 24.5249366836967, 'displacement': 4097.982758152038, 'latitude': '14.106490026026647', 'longitude': '100.66082180715915', 'restaurant_id': 'r6546'}, {'difference': 24.652125392187774, 'displacement': 4102.521565587701, 'latitude': '14.145101380746942', 'longitude': '100.70890786749601', 'restaurant_id': 'r4504'}]}
+This userID u00005 has no restaurant near
+User ID: u00005
+Status code: 200
+Response: {'restaurants': []}
+This userID u00006 has no restaurant near
+User ID: u00006
+Status code: 200
+Response: {'restaurants': []}
+This userID u00007 has no restaurant near
+User ID: u00007
+Status code: 200
+Response: {'restaurants': []}
+User ID: u00008
+Status code: 200
+Response: {'restaurants': [{'difference': 24.854020453296222, 'displacement': 3118.8479102378606, 'latitude': '13.777278045379648', 'longitude': '100.54340067200266', 'restaurant_id': 'r7317'}, {'difference': 24.51083199732331, 'displacement': 7154.681950378194, 'latitude': '13.711413989238137', 'longitude': '100.4768319906342', 'restaurant_id': 'r7986'}, {'difference': 24.665229131324644, 'displacement': 8706.14126799291, 'latitude': '13.729235545176078', 'longitude': '100.60035853552696', 'restaurant_id': 'r1611'}, {'difference': 24.8919739100037, 'displacement': 8756.661529763067, 'latitude': '13.693017115911921', 'longitude': '100.47591987056593', 'restaurant_id': 'r3707'}, {'difference': 24.594172003769874, 'displacement': 9680.850350468272, 'latitude': '13.676298939137643', 'longitude': '100.56070604370632', 'restaurant_id': 'r2238'}]}
+This userID u00009 has no restaurant near
+User ID: u00009
+Status code: 200
+Response: {'restaurants': []}
+requests per second: 6.957736950314855
+Average Response Time: 141.87588778877895 ms
